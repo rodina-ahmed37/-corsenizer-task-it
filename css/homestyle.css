@@ -111,6 +111,7 @@ main section .text{
  position: absolute;
  left: 50%;
   top:45%;
+  padding-top: 100px;
   text-align: center;
   transform: translate(-50%,-50%); 
   pointer-events: none;
