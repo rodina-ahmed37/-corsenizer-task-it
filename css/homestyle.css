@@ -110,7 +110,7 @@ header nav ul li a:hover {
 main section .text{
  position: absolute;
  left: 50%;
-  top:30%;
+  top:45%;
   text-align: center;
   transform: translate(-50%,-50%); 
   pointer-events: none;
